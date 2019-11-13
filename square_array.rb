@@ -6,4 +6,6 @@ def square_array(array)
     puts square_array
 end
 def new_num(array)
-  
+  new_numbers = [9,10,16,25]
+ 
+square_array(new_numbers)
